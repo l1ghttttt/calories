@@ -216,7 +216,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    const deadline = new Date(2024, 2, 20);
+    const deadline = new Date(2024, 6, 20);
 
     function countdownTimer() {
         const diff = deadline - new Date();
